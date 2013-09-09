@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="1" failures="0" hostname="mohammed-Lenovo-G570" name="test.TestClass" tests="1" time="0.163" timestamp="2013-09-09T11:14:57">
+  <properties>
+    <property name="ant.project.invoked-targets" value="exec" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="sun.boot.library.path" value="/opt/jdk1.6.0/jre/lib/amd64" />
+    <property name="java.vm.version" value="1.6.0-b105" />
+    <property name="ant.library.dir" value="/opt/eclipse/plugins/org.apache.ant_1.8.3.v201301120609/lib" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.8.3 compiled on February 26 2012" />
+    <property name="ant.java.version" value="1.6" />
+    <property name="java.vm.vendor" value="Sun Microsystems Inc." />
+    <property name="java.vendor.url" value="http://java.sun.com/" />
+    <property name="path.separator" value=":" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="user.country" value="IN" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.os.patch.level" value="unknown" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="user.dir" value="/root/workspace/HelloTest" />
+    <property name="lib" value="./lib" />
+    <property name="java.runtime.version" value="1.6.0-b105" />
+    <property name="bin" value="./bin" />
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment" />
+    <property name="eclipse.pdebuild.scripts" value="/opt/eclipse/plugins/org.eclipse.pde.build_3.8.2.v20121114-140810/scripts//" />
+    <property name="basedir" value="/root/workspace/HelloTest" />
+    <property name="java.endorsed.dirs" value="/opt/jdk1.6.0/jre/lib/endorsed" />
+    <property name="os.arch" value="amd64" />
+    <property name="ant.project.default-target" value="exec" />
+    <property name="java.io.tmpdir" value="/tmp" />
+    <property name="ant.core.lib" value="/opt/eclipse/plugins/org.apache.ant_1.8.3.v201301120609/lib/ant.jar" />
+    <property name="line.separator" value="&#xa;" />
+    <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+    <property name="os.name" value="Linux" />
+    <property name="ant.home" value="/opt/eclipse/plugins/org.apache.ant_1.8.3.v201301120609" />
+    <property name="eclipse.pdebuild.templates" value="/opt/eclipse/plugins/org.eclipse.pde.build_3.8.2.v20121114-140810/templates//" />
+    <property name="ant.project.name" value="HelloTest" />
+    <property name="sun.jnu.encoding" value="UTF-8" />
+    <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib/jni:/lib:/usr/lib:/opt/eclipse/configuration/org.eclipse.osgi/bundles/193/1/.cp" />
+    <property name="eclipse.pdebuild.home" value="/opt/eclipse/plugins/org.eclipse.pde.build_3.8.2.v20121114-140810/.//" />
+    <property name="src" value="./src" />
+    <property name="ant.file.type.HelloTest" value="file" />
+    <property name="java.class.version" value="50.0" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Server Compiler" />
+    <property name="os.version" value="3.8.0-26-generic" />
+    <property name="ant.file" value="/root/workspace/HelloTest/build.xml" />
+    <property name="user.home" value="/root" />
+    <property name="user.timezone" value="" />
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob" />
+    <property name="java.specification.version" value="1.6" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="user.name" value="root" />
+    <property name="java.class.path" value="/opt/eclipse/plugins/org.apache.ant_1.8.3.v201301120609/lib/ant-antlr.jar:/opt/eclipse/plugins/org.apache.ant_1.8.3.v201301120609/lib/ant-apache-bcel.jar:/opt/eclipse/plugins/org.apache.ant_1.8.3.v201301120609/lib/ant-apache-bsf.jar:/opt/eclipse/plugins/org.apache.ant_1.8.3.v201301120609/lib/ant-apache-log4j.jar:/opt/eclipse/plugins/org.apache.ant_1.8.3.v201301120609/lib/ant-apache-oro.jar:/opt/eclipse/plugins/org.apache.ant_1.8.3.v201301120609/lib/ant-apache-regexp.jar:/opt/eclipse/plugins/org.apache.ant_1.8.3.v201301120609/lib/ant-apache-resolver.jar:/opt/eclipse/plugins/org.apache.ant_1.8.3.v201301120609/lib/ant-apache-xalan2.jar:/opt/eclipse/plugins/org.apache.ant_1.8.3.v201301120609/lib/ant-commons-logging.jar:/opt/eclipse/plugins/org.apache.ant_1.8.3.v201301120609/lib/ant-commons-net.jar:/opt/eclipse/plugins/org.apache.ant_1.8.3.v201301120609/lib/ant-jai.jar:/opt/eclipse/plugins/org.apache.ant_1.8.3.v201301120609/lib/ant-javamail.jar:/opt/eclipse/plugins/org.apache.ant_1.8.3.v201301120609/lib/ant-jdepend.jar:/opt/eclipse/plugins/org.apache.ant_1.8.3.v201301120609/lib/ant-jmf.jar:/opt/eclipse/plugins/org.apache.ant_1.8.3.v201301120609/lib/ant-jsch.jar:/opt/eclipse/plugins/org.apache.ant_1.8.3.v201301120609/lib/ant-junit.jar:/opt/eclipse/plugins/org.apache.ant_1.8.3.v201301120609/lib/ant-junit4.jar:/opt/eclipse/plugins/org.apache.ant_1.8.3.v201301120609/lib/ant-launcher.jar:/opt/eclipse/plugins/org.apache.ant_1.8.3.v201301120609/lib/ant-netrexx.jar:/opt/eclipse/plugins/org.apache.ant_1.8.3.v201301120609/lib/ant-swing.jar:/opt/eclipse/plugins/org.apache.ant_1.8.3.v201301120609/lib/ant-testutil.jar:/opt/eclipse/plugins/org.apache.ant_1.8.3.v201301120609/lib/ant.jar:/opt/eclipse/configuration/org.eclipse.osgi/bundles/26/1/.cp/lib/antdebug.jar:/opt/eclipse/configuration/org.eclipse.osgi/bundles/26/1/.cp/lib/remote.jar:/opt/eclipse/configuration/org.eclipse.osgi/bundles/27/1/.cp/lib/remoteAnt.jar:/opt/jdk1.6.0/lib/tools.jar:/root/workspace/TestAntProj/lib/javax.mail.jar:/root/workspace/TestAntProj/lib/junit-4.7.jar:/root/workspace/TestAntProj/lib/jxl.jar:/root/workspace/TestAntProj/lib/log4j-1.2.17.jar:/root/workspace/TestAntProj/lib/postgresql-8.4-703.jdbc4.jar:/root/workspace/TestAntProj/lib/selenium-server-standalone-2.25.0.jar:/root/workspace/TestAntProj/lib/selenium-server-standalone-2.28.0.jar:/root/workspace/TestAntProj/lib/testng-6.8.jar:/opt/eclipse/plugins/org.junit_4.10.0.v4_10_0_v20120426-0900/junit.jar:/opt/eclipse/plugins/org.eclipse.swt.gtk.linux.x86_64_3.100.1.v4236b.jar" />
+    <property name="java.vm.specification.version" value="1.0" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="java.home" value="/opt/jdk1.6.0/jre" />
+    <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+    <property name="user.language" value="en" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="java.version" value="1.6.0" />
+    <property name="java.ext.dirs" value="/opt/jdk1.6.0/jre/lib/ext:/usr/java/packages/lib/ext" />
+    <property name="sun.boot.class.path" value="/opt/jdk1.6.0/jre/lib/resources.jar:/opt/jdk1.6.0/jre/lib/rt.jar:/opt/jdk1.6.0/jre/lib/sunrsasign.jar:/opt/jdk1.6.0/jre/lib/jsse.jar:/opt/jdk1.6.0/jre/lib/jce.jar:/opt/jdk1.6.0/jre/lib/charsets.jar:/opt/jdk1.6.0/jre/classes" />
+    <property name="java.vendor" value="Sun Microsystems Inc." />
+    <property name="file.separator" value="/" />
+    <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
+    <property name="ant.file.HelloTest" value="/root/workspace/HelloTest/build.xml" />
+    <property name="report" value="./report" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="sun.desktop" value="gnome" />
+    <property name="sun.cpu.isalist" value="" />
+  </properties>
+  <testcase classname="test.TestClass" name="initializationError" time="0.014">
+    <error message="org/hamcrest/SelfDescribing" type="java.lang.NoClassDefFoundError">java.lang.NoClassDefFoundError: org/hamcrest/SelfDescribing
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:620)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:124)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:260)
+	at java.net.URLClassLoader.access$000(URLClassLoader.java:56)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:195)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:188)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:306)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:276)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:251)
+	at java.lang.ClassLoader.loadClassInternal(ClassLoader.java:319)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at org.eclipse.ant.internal.launching.remote.EclipseDefaultExecutor.executeTargets(EclipseDefaultExecutor.java:32)
+	at org.eclipse.ant.internal.launching.remote.InternalAntRunner.run(InternalAntRunner.java:424)
+	at org.eclipse.ant.internal.launching.remote.InternalAntRunner.main(InternalAntRunner.java:138)
+</error>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
